@@ -1,0 +1,31 @@
+                
+				CLOUDFRONT
+
+--->Amazon CloudFront is a content delivery network (CDN) operated by Amazon Web Services. Content delivery networks provide a globally-distributed network of proxy servers that cache content,
+    such as web videos or other bulky media, more locally to consumers, thus improving access speed for downloading the content.
+
+--->CloudFront has servers located in Europe (United Kingdom, Ireland, The Netherlands, Germany, Spain), Asia (Hong Kong, Singapore, Japan, Taiwan and India), Australia, 
+    South America, Africa, and several major cities in the United States. In July 2020, the service operated from 205 edge locations on six continents.
+
+--->CloudFront operates on a pay-as-you-go basis.
+
+--->CloudFront competes with larger CDNs, such as Akamai and Limelight Networks. Upon launch, Larry Dignan of ZDNet News stated that CloudFront could cause price and
+    margin reductions for competing CDNs.
+ 
+                Benefits
+
+--->It will cache your content in edge locations and decrease the workload, thus resulting in high availability of applications.
+--->It is simple to use and ensures productivity enhancement.
+--->It provides high security with the ‘Content Privacy’ feature.
+--->It facilitates GEO targeting service for content delivery to specific end-users.
+--->It uses HTTP or HTTPS protocols for quick delivery of content.
+--->It is less expensive, as it only charges for the data transfer.
+--->Fast and global
+--->The Amazon CloudFront content delivery network (CDN) is massively scaled and globally distributed.
+--->The CloudFront network has 310+ Points of Presence (300+ Edge locations and 13 regional mid-tier caches) in 90+ cities across 47 countries,
+    and leverages the highly-resilient private backbone network for superior performance and availability for your end users.
+
+
+                Security at the Edge
+--->Amazon CloudFront is a highly-secure CDN that provides both network and application level protection. 
+--->Your traffic and applications benefit through a variety of built-in protections such as Amazon Shield Standard, at no additional cost. 
